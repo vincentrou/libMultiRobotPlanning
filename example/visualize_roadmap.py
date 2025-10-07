@@ -1,4 +1,11 @@
 #!/usr/bin/env python3
+# /// script
+# requires-python = ">=3.11"
+# dependencies = [
+#     "matplotlib",
+#     "pyyaml",
+# ]
+# ///
 import yaml
 import matplotlib
 # matplotlib.use("Agg")

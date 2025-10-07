@@ -1,4 +1,12 @@
 #!/usr/bin/env python3
+# /// script
+# requires-python = ">=3.11"
+# dependencies = [
+#     "cvxpy",
+#     "numpy",
+#     "pyyaml",
+# ]
+# ///
 import argparse
 from multiprocessing import Pool
 from typing import List, Tuple
